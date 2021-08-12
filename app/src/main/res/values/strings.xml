@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Activity Implicita</string>
+    <string name="siteUtfpr">www.utfpr.edu.br</string>
+    <string name="nenhum_aplicativo_instalado">Nem um aplicativo atende essa solicitação</string>
+    <string name="http">http://</string>
+</resources>
